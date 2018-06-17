@@ -1,6 +1,6 @@
-# my-project
+# Vue App
 
-> A Vue.js project
+> A Vue.js project allow you to create new users, using vuex and vue-router
 
 ## Build Setup
 
