@@ -1,6 +1,6 @@
-# my-project
+# Vue App
 
-> A Vue.js project
+> A Vue.js project allow you to create new users, using vuex and vue-router
 
 ## Build Setup
 
@@ -26,5 +26,9 @@ npm run e2e
 # run all tests
 npm test
 ```
+
+## Authors
+
+* **Alex Zhou** - *Initial work* - [LinkedIn](https://www.linkedin.com/in/yuhang-alex-zhou-859a5457/)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
